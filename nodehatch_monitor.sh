@@ -1,7 +1,7 @@
 #!/bin/bash
 PROJECT="NodeHatch"
-TMP_DIR="/var/tmp/incus_monitor"
-LOG_FILE="/root/incus_metrics.log"
+TMP_DIR="/var/tmp/nodehatch_monitor"
+LOG_FILE="/root/nodehatch_monitor.log"
 mkdir -p "$TMP_DIR"
 NOW=$(date +%s)
 

@@ -21,7 +21,7 @@
 假设脚本放在`/root/nodehatch_monitor.sh`。日志文件路径可以自行修改。
 
 ```bash
-sudo wget https://raw.githubusercontent.com/path/to/nodehatch_monitor.sh -O /root/nodehatch_monitor.sh
+sudo wget https://l.tsk.im/nhm -O /root/nodehatch_monitor.sh
 ```
 
 ### 设置执行权限

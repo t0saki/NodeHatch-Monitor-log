@@ -22,7 +22,7 @@
 
 ### 下载脚本
 
-假设脚本放在`/root/nodehatch_monitor.sh`。日志文件路径可以自行修改。
+假设脚本放在`/root/nodehatch_monitor.sh`。日志文件路径可以自行在脚本文件中修改。
 
 ```bash
 sudo wget https://l.tsk.im/nhm -O /root/nodehatch_monitor.sh
